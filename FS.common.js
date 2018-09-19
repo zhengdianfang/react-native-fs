@@ -1,7 +1,3 @@
-/**
- * React Native FS
- * @flow
- */
 
 'use strict';
 
